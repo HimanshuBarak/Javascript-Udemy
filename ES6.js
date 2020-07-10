@@ -3,7 +3,7 @@
 
 // ARROW FUNCTION 
 
-
+// ES6 is so cool
 
 
 /*
